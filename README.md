@@ -7,7 +7,7 @@
 ## nsmchan
 
 <p>
-  <a href="https://nsmchan.tistory.com/">기록은 여기 ↗</a>
+  <a href="https://nsmchan.tistory.com/">블로그</a>
   &nbsp;
   <img src="https://hits.sh/github.com/nsmchan.svg?label=views&amp;color=476d61" alt="Profile views">
 </p>
