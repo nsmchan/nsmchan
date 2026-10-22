@@ -27,5 +27,3 @@
   <img src="assets/ai-activity-light.svg" alt="Claude Code and Codex activity: 16.36B processed tokens, including cached input, across 40 active days. Retained local records from 2026-07-15 through 2026-10-22." width="690">
 </picture>
 </p>
-
-<sub>통계·AI 활동은 2026-10-22 기준 스냅샷입니다.</sub>
