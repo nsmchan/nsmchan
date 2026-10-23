@@ -7,7 +7,7 @@
 ## nsmchan
 
 <p>
-  <a href="https://nsmchan.tistory.com/">블로그</a>
+  <a href="https://nsmchan.tistory.com/">blog</a>
   &nbsp;
   <img src="https://hits.sh/github.com/nsmchan.svg?label=views&amp;color=476d61" alt="Profile views">
 </p>
