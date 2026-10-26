@@ -30,8 +30,8 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-dark.svg?v=1229fbe7ba68">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=d6f71892303c">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=d6f71892303c" alt="RTK, Serena and Caveman logos. RTK output savings estimate; Serena full-file comparison reference. Caveman concise response skill. Not billing savings." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-dark.svg?v=7f4a74731c5a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=1dda4318169f">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=1dda4318169f" alt="RTK, Serena and Caveman logos. RTK output savings estimate; Serena full-file comparison reference. Caveman concise response skill. Not billing savings." width="690">
 </picture>
 </p>
