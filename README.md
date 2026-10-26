@@ -22,16 +22,16 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-activity-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/ai-activity-light.svg">
-  <img src="assets/ai-activity-light.svg" alt="Daily Claude Code and Codex token activity from retained local records. Includes cached input." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=299d513de51a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=a321d7e950d6">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=a321d7e950d6" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
 </picture>
 </p>
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-dark.svg?v=389e0efb830a">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=77f677efa5e4">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=77f677efa5e4" alt="RTK, Serena and Caveman logos. RTK output savings estimate; Serena full-file comparison reference. Caveman concise response skill. Not billing savings." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-dark.svg?v=1229fbe7ba68">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=d6f71892303c">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=d6f71892303c" alt="RTK, Serena and Caveman logos. RTK output savings estimate; Serena full-file comparison reference. Caveman concise response skill. Not billing savings." width="690">
 </picture>
 </p>
