@@ -29,34 +29,34 @@
 </p>
 
 <table width="690" cellpadding="0" cellspacing="0">
-<tr><td><a href="https://github.com/rtk-ai/rtk"><img src="assets/tool-rtk.jpg" alt="RTK logo" width="26"> RTK</a></td></tr>
 <tr><td>
+<a href="https://github.com/rtk-ai/rtk"><img src="assets/tool-rtk.jpg" alt="RTK logo" width="24"> <strong>RTK</strong></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-rtk-dark.svg?v=c27a03d0da78">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-rtk-light.svg?v=9794a9d85817">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-rtk-light.svg?v=9794a9d85817" alt="RTK estimated command-output token savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-rtk-dark.svg?v=aabc6131bd1f">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-rtk-light.svg?v=b0369aa18646">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-rtk-light.svg?v=b0369aa18646" alt="RTK estimated command-output token savings." width="640">
 </picture>
 </td></tr>
 </table>
 
 <table width="690" cellpadding="0" cellspacing="0">
-<tr><td><a href="https://github.com/oraios/serena"><img src="assets/tool-serena.png" alt="Serena logo" width="26"> Serena</a></td></tr>
 <tr><td>
+<a href="https://github.com/oraios/serena"><img src="assets/tool-serena.png" alt="Serena logo" width="24"> <strong>Serena</strong></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-serena-dark.svg?v=84f48732bbe1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-serena-light.svg?v=649446cc372c">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-serena-light.svg?v=649446cc372c" alt="Serena full-file comparison reference; not measured savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-serena-dark.svg?v=07d580a76930">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-serena-light.svg?v=f5909f409241">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-serena-light.svg?v=f5909f409241" alt="Serena full-file comparison reference; not measured savings." width="640">
 </picture>
 </td></tr>
 </table>
 
 <table width="690" cellpadding="0" cellspacing="0">
-<tr><td><a href="https://github.com/JuliusBrussee/caveman"><img src="assets/tool-caveman.png" alt="Caveman logo" width="26"> Caveman</a></td></tr>
 <tr><td>
+<a href="https://github.com/JuliusBrussee/caveman"><img src="assets/tool-caveman.png" alt="Caveman logo" width="24"> <strong>Caveman</strong></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-caveman-dark.svg?v=ed7c70a404e4">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-caveman-light.svg?v=22fbff1ece19">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-caveman-light.svg?v=22fbff1ece19" alt="Caveman concise response skill; savings unmeasured." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-caveman-dark.svg?v=25cff36b9d66">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-caveman-light.svg?v=ca458936e8ad">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-caveman-light.svg?v=ca458936e8ad" alt="Caveman concise response skill; savings unmeasured." width="640">
 </picture>
 </td></tr>
 </table>
