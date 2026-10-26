@@ -22,9 +22,9 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=6ab50383f3a1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=f5fac0325990">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=f5fac0325990" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=6ab50383f3a12543">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=f5fac03259902582">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=f5fac03259902582" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
 </picture>
 </p>
 
@@ -32,9 +32,9 @@
 <tr><td>
 <a href="https://github.com/rtk-ai/rtk"><img src="assets/tool-rtk.jpg" alt="RTK logo" width="24"> <strong>RTK</strong></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-dark.svg?v=aabc6131bd1f0f89">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-light.svg?v=b0369aa186465924">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-light.svg?v=b0369aa186465924" alt="RTK estimated command-output token savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-dark.svg?v=44daadde5d0559e0">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-light.svg?v=e38aa963d0761bb2">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-light.svg?v=e38aa963d0761bb2" alt="RTK estimated command-output token savings." width="640">
 </picture>
 </td></tr>
 </table>
