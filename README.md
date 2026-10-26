@@ -32,6 +32,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/context-efficiency-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/context-efficiency-light.svg">
-  <img src="assets/context-efficiency-light.svg" alt="RTK estimated command-output token savings. Serena current full-file comparison reference, not measured savings. Not billing savings." width="690">
+  <img src="assets/context-efficiency-light.svg" alt="RTK, Serena and Caveman logos. RTK output savings estimate; Serena full-file comparison reference. Caveman concise response skill. Not billing savings." width="690">
 </picture>
 </p>
