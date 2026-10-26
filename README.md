@@ -29,9 +29,31 @@
 </p>
 
 <p>
+<a href="https://github.com/rtk-ai/rtk">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-dark.svg?v=c954e754d7f2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=3ab1aae745f2">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-efficiency-light.svg?v=3ab1aae745f2" alt="RTK, Serena and Caveman logos. RTK output savings estimate; Serena full-file comparison reference. Caveman concise response skill. Not billing savings." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-rtk-dark.svg?v=b343218d6e55">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-rtk-light.svg?v=109347270fd8">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-rtk-light.svg?v=109347270fd8" alt="RTK estimated command-output token savings." width="690">
 </picture>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/oraios/serena">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-serena-dark.svg?v=cf1b42043e4a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-serena-light.svg?v=e20a73ed282c">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-serena-light.svg?v=e20a73ed282c" alt="Serena full-file comparison reference; not measured savings." width="690">
+</picture>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/JuliusBrussee/caveman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-caveman-dark.svg?v=feb769154361">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-caveman-light.svg?v=c81f0e151112">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/context-caveman-light.svg?v=c81f0e151112" alt="Caveman concise response skill; savings unmeasured." width="690">
+</picture>
+</a>
 </p>
