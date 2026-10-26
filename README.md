@@ -30,8 +30,8 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/context-efficiency-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/context-efficiency-light.svg">
-  <img src="assets/context-efficiency-light.svg" alt="RTK, Serena and Caveman logos. RTK output savings estimate; Serena full-file comparison reference. Caveman concise response skill. Not billing savings." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/context-efficiency-dark.svg?v=d39f93035d29">
+  <source media="(prefers-color-scheme: light)" srcset="assets/context-efficiency-light.svg?v=78b62d29daa1">
+  <img src="assets/context-efficiency-light.svg?v=78b62d29daa1" alt="RTK, Serena and Caveman logos. RTK output savings estimate; Serena full-file comparison reference. Caveman concise response skill. Not billing savings." width="690">
 </picture>
 </p>
