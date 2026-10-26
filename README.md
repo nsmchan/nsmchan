@@ -27,3 +27,11 @@
   <img src="assets/ai-activity-light.svg" alt="Daily Claude Code and Codex token activity from retained local records. Includes cached input." width="690">
 </picture>
 </p>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/context-efficiency-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/context-efficiency-light.svg">
+  <img src="assets/context-efficiency-light.svg" alt="RTK estimated command-output token savings and reduction rate. Serena semantic code tools; savings not measured. Not billing savings." width="690">
+</picture>
+</p>
