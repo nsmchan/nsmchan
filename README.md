@@ -22,9 +22,9 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=3d7e2c3c8c06efd7">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=6a017e2d267e35a8">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=6a017e2d267e35a8" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=4bd86a80e2a48007">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=f52a4b62cf41fd7b">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=f52a4b62cf41fd7b" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
 </picture>
 </p>
 
@@ -32,9 +32,9 @@
 <tbody><tr><td>
 <a href="https://github.com/rtk-ai/rtk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-dark.svg?v=1058c99e52f72970"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-light.svg?v=b9a65876aaa3f0dc"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-light.svg?v=b9a65876aaa3f0dc" alt="RTK" height="28"></picture></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-dark.svg?v=72c70d7523455e4b">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=4f23ec9faf4b8c74">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=4f23ec9faf4b8c74" alt="RTK estimated command-output token savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-dark.svg?v=536a038e6269234d">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=aab1c4b7a9af2e26">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=aab1c4b7a9af2e26" alt="RTK estimated command-output token savings." width="640">
 </picture>
 </td></tr></tbody>
 
