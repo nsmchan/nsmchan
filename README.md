@@ -22,9 +22,9 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=4bd86a80e2a48007">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=f52a4b62cf41fd7b">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=f52a4b62cf41fd7b" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=3d8490cf0ac99864">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=6c3cb8065058cfd0">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=6c3cb8065058cfd0" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
 </picture>
 </p>
 
@@ -32,18 +32,18 @@
 <tbody><tr><td>
 <a href="https://github.com/rtk-ai/rtk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-dark.svg?v=1058c99e52f72970"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-light.svg?v=b9a65876aaa3f0dc"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-light.svg?v=b9a65876aaa3f0dc" alt="RTK" height="28"></picture></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-dark.svg?v=536a038e6269234d">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=aab1c4b7a9af2e26">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=aab1c4b7a9af2e26" alt="RTK estimated command-output token savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-dark.svg?v=eb4da7ef36567e14">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=24279913327e92a1">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=24279913327e92a1" alt="RTK estimated command-output token savings." width="640">
 </picture>
 </td></tr></tbody>
 
 <tbody><tr><td>
 <a href="https://github.com/oraios/serena"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-serena-dark.svg?v=340b6a111acb78fd"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-serena-light.svg?v=36049998e60198e2"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-serena-light.svg?v=36049998e60198e2" alt="Serena" height="28"></picture></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-dark.svg?v=fb9ac6bf9c2cf3de">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-light.svg?v=93dbd26050e46225">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-light.svg?v=93dbd26050e46225" alt="Serena full-file comparison reference; not measured savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-dark.svg?v=d154f9fbfebbe16e">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-light.svg?v=81af82408fa5c8b8">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-light.svg?v=81af82408fa5c8b8" alt="Serena full-file comparison reference; not measured savings." width="640">
 </picture>
 </td></tr></tbody>
 
