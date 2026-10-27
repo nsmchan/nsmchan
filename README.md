@@ -14,9 +14,9 @@
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-stats-light.svg">
-  <img src="assets/github-stats-light.svg" alt="GitHub stats: stars received, authored commits this year, and all-time pull requests. Includes accessible private activity." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/github-stats-dark.svg?v=ba0607989867e051">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/github-stats-light.svg?v=9b52a6e5bdbfd915">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/github-stats-light.svg?v=9b52a6e5bdbfd915" alt="GitHub stats: stars received, authored commits this year, and all-time pull requests. Includes accessible private activity." width="690">
 </picture>
 </p>
 
@@ -30,33 +30,33 @@
 
 <table width="690" cellpadding="0" cellspacing="0">
 <tr><td>
-<a href="https://github.com/rtk-ai/rtk"><img src="assets/tool-rtk.jpg" alt="RTK logo" width="24"> <strong>RTK</strong></a><br>
+<a href="https://github.com/rtk-ai/rtk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/label-rtk-dark.svg?v=de5c44e5d6c064c7"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/label-rtk-light.svg?v=1bdad097e53545f0"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/label-rtk-light.svg?v=1bdad097e53545f0" alt="RTK" height="36"></picture></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-dark.svg?v=44daadde5d0559e0">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-light.svg?v=e38aa963d0761bb2">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-light.svg?v=e38aa963d0761bb2" alt="RTK estimated command-output token savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-dark.svg?v=dc5bd4d0a5114dfa">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-light.svg?v=83987a1be7bbdc7d">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-rtk-light.svg?v=83987a1be7bbdc7d" alt="RTK estimated command-output token savings." width="640">
 </picture>
 </td></tr>
 </table>
 
 <table width="690" cellpadding="0" cellspacing="0">
 <tr><td>
-<a href="https://github.com/oraios/serena"><img src="assets/tool-serena.png" alt="Serena logo" width="24"> <strong>Serena</strong></a><br>
+<a href="https://github.com/oraios/serena"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/label-serena-dark.svg?v=0ce858146432a5d4"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/label-serena-light.svg?v=87c21e922e9e547e"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/label-serena-light.svg?v=87c21e922e9e547e" alt="Serena" height="36"></picture></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-serena-dark.svg?v=07d580a769306b41">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-serena-light.svg?v=f5909f4092419c60">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-serena-light.svg?v=f5909f4092419c60" alt="Serena full-file comparison reference; not measured savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-serena-dark.svg?v=dfed32c67064b0d2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-serena-light.svg?v=be9673063b366454">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-serena-light.svg?v=be9673063b366454" alt="Serena full-file comparison reference; not measured savings." width="640">
 </picture>
 </td></tr>
 </table>
 
 <table width="690" cellpadding="0" cellspacing="0">
 <tr><td>
-<a href="https://github.com/JuliusBrussee/caveman"><img src="assets/tool-caveman.png" alt="Caveman logo" width="24"> <strong>Caveman</strong></a><br>
+<a href="https://github.com/JuliusBrussee/caveman"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/label-caveman-dark.svg?v=37438e9c28220f8e"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/label-caveman-light.svg?v=3f9d1b6aa46c340a"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/label-caveman-light.svg?v=3f9d1b6aa46c340a" alt="Caveman" height="36"></picture></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-caveman-dark.svg?v=25cff36b9d66bc7a">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-caveman-light.svg?v=ca458936e8ade124">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-caveman-light.svg?v=ca458936e8ade124" alt="Caveman concise response skill; savings unmeasured." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-caveman-dark.svg?v=328145cde07df508">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-caveman-light.svg?v=4f00f3a9c7e63574">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/efficiency-caveman-light.svg?v=4f00f3a9c7e63574" alt="Caveman concise response skill; savings unmeasured." width="640">
 </picture>
 </td></tr>
 </table>
