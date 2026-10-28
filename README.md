@@ -19,11 +19,8 @@
 </p>
 
 <p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination-dark.svg?v=cb9a2ef9cc176143">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=73128c36917911ac">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=73128c36917911ac" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690">
-</picture>
+  <a href="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination-dark.svg?v=cb9a2ef9cc176143#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination-dark.svg?v=cb9a2ef9cc176143#gh-dark-mode-only" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
+  <a href="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=73128c36917911ac#gh-light-mode-only"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=73128c36917911ac#gh-light-mode-only" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
 </p>
 
 <p>
