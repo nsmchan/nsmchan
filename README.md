@@ -18,6 +18,10 @@
   <img src="assets/hunter-license-back.png" alt="Hunter License back. LICENSED TO NSMCHAN. ISSUED 2021.03.30, GitHub account creation date in Korea Standard Time." width="32%">
 </p>
 
+<p align="center">
+  <img src="assets/water-divination.png" alt="Water Divination developer radar. Static snapshot: local code-file shares are TypeScript 82.4%, React TSX and JSX 14.8%, Go 2.1%, Python 0.7%; AI token shares from the 2026-10-27 profile snapshot are Codex 98.3% and Claude 1.7%, including cached input. Code and AI use separate totals." width="690">
+</p>
+
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=95a208a7b2f5caf4">
