@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/hunter-license-front.png" alt="NSMCHAN Hunter License front. Approved statistics snapshot from 2026-10-27; cached input included." width="46%">
+  <img src="assets/hunter-license-front.png" alt="NSMCHAN Hunter License front. Approved statistics snapshot from 2026-10-27; cached input included." width="32%">
   &nbsp;
-  <img src="assets/hunter-license-back.png" alt="Hunter License back. LICENSED TO NSMCHAN. ISSUED 2021.03.30, GitHub account creation date in Korea Standard Time." width="46%">
+  <img src="assets/hunter-license-back.png" alt="Hunter License back. LICENSED TO NSMCHAN. ISSUED 2021.03.30, GitHub account creation date in Korea Standard Time." width="32%">
 </p>
 
 <p>
