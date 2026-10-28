@@ -12,14 +12,18 @@
   <img src="https://hits.sh/github.com/nsmchan.svg?label=views&amp;color=476d61" alt="Profile views">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="assets/hunter-license-front.png" alt="NSMCHAN Hunter License front. Approved statistics snapshot from 2026-10-27; cached input included." width="32%">
   &nbsp;
   <img src="assets/hunter-license-back.png" alt="Hunter License back. LICENSED TO NSMCHAN. ISSUED 2021.03.30, GitHub account creation date in Korea Standard Time." width="32%">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=ca8a8a22aaa230c9" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690">
+<p align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination-dark.svg?v=cb9a2ef9cc176143">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=73128c36917911ac">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=73128c36917911ac" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690">
+</picture>
 </p>
 
 <p>
