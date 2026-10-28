@@ -13,20 +13,20 @@
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-front.svg?v=93ab939bbd93f893" alt="Hunter License front. Automatically refreshed authored commits this year, all-time pull requests, and retained AI tokens including cached input." width="32%">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-front.svg?v=cebcb986d98fb26a" alt="Hunter License front. Automatically refreshed authored commits this year, all-time pull requests, and retained AI tokens including cached input." width="32%">
   &nbsp;
   <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-back.svg?v=fcb460c65880de65" alt="Hunter License back. LICENSED TO NSMCHAN. ISSUED 2021.03.30, GitHub account creation date in Korea Standard Time." width="32%">
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=4c6075906278d853" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=ac4c7b6428895daf" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690">
 </p>
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=c0a2e4fbf84e51d1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=2bd88196c2c0aded">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=2bd88196c2c0aded" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-dark.svg?v=5487f6100147ef63">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=e34e3ef2e04574fe">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=e34e3ef2e04574fe" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
 </picture>
 </p>
 
@@ -34,18 +34,18 @@
 <tbody><tr><td>
 <a href="https://github.com/rtk-ai/rtk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-dark.svg?v=1058c99e52f72970"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-light.svg?v=b9a65876aaa3f0dc"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-light.svg?v=b9a65876aaa3f0dc" alt="RTK" height="28"></picture></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-dark.svg?v=ef1c1efdb72badcc">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=db3000d78815ca9c">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=db3000d78815ca9c" alt="RTK estimated command-output token savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-dark.svg?v=df5b5e148f498813">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=adb477e73810966c">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=adb477e73810966c" alt="RTK estimated command-output token savings." width="640">
 </picture>
 </td></tr></tbody>
 
 <tbody><tr><td>
 <a href="https://github.com/oraios/serena"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-serena-dark.svg?v=340b6a111acb78fd"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-serena-light.svg?v=36049998e60198e2"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-serena-light.svg?v=36049998e60198e2" alt="Serena" height="28"></picture></a><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-dark.svg?v=7d0f358873780cef">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-light.svg?v=3fa575b2214ea4ae">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-light.svg?v=3fa575b2214ea4ae" alt="Serena full-file comparison reference; not measured savings." width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-dark.svg?v=d154f9fbfebbe16e">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-light.svg?v=81af82408fa5c8b8">
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-serena-light.svg?v=81af82408fa5c8b8" alt="Serena full-file comparison reference; not measured savings." width="640">
 </picture>
 </td></tr></tbody>
 
