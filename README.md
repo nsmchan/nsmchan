@@ -19,8 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination-dark.svg?v=cb9a2ef9cc176143#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination-dark.svg?v=cb9a2ef9cc176143#gh-dark-mode-only" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
-  <a href="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=73128c36917911ac#gh-light-mode-only"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=73128c36917911ac#gh-light-mode-only" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
+  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=0023d6d3c2ec2366" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690">
 </p>
 
 <p>
