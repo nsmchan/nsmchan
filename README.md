@@ -12,12 +12,10 @@
   <img src="https://hits.sh/github.com/nsmchan.svg?label=views&amp;color=476d61" alt="Profile views">
 </p>
 
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/github-stats-dark.svg?v=ba0607989867e051">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/github-stats-light.svg?v=9b52a6e5bdbfd915">
-  <img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/github-stats-light.svg?v=9b52a6e5bdbfd915" alt="GitHub stats: stars received, authored commits this year, and all-time pull requests. Includes accessible private activity." width="690">
-</picture>
+<p align="center">
+  <img src="assets/hunter-license-front.png" alt="NSMCHAN Hunter License front. Approved statistics snapshot from 2026-10-27; cached input included." width="46%">
+  &nbsp;
+  <img src="assets/hunter-license-back.png" alt="Hunter License back. LICENSED TO NSMCHAN. ISSUED 2021.03.30, GitHub account creation date in Korea Standard Time." width="46%">
 </p>
 
 <p>
