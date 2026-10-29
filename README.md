@@ -13,17 +13,17 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-front.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-front.svg?v=f49145be9f798a54" alt="Hunter License front. Automatically refreshed authored commits this year, all-time pull requests, and retained AI tokens including cached input." width="32%"></a>
+  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-front.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-front.svg?v=a5d8c94593f74b46" alt="Hunter License front. Automatically refreshed authored commits this year, all-time pull requests, and retained AI tokens including cached input." width="32%"></a>
   &nbsp;
   <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-back.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-back.svg?v=64fbdda4ab591279" alt="Hunter License back. LICENSED TO NSMCHAN. ISSUED 2021.03.30, GitHub account creation date in Korea Standard Time." width="45%"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/water-divination.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=d291417117146c97" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
+  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/water-divination-preview.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=8cce1eaad25e1194" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=3d8281d3c1eb6237" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
+<img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=31a50660b067aae9" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
 </p>
 
 <table width="690" cellpadding="0" cellspacing="0">
