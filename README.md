@@ -13,23 +13,23 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-front.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-front.svg?v=6e427f7ce7619930" alt="Hunter License front. Automatically refreshed authored commits this year, all-time pull requests, and retained AI tokens including cached input." width="32%"></a>
+  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-front.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-front.svg?v=9998d1c2b618ecf1" alt="Hunter License front. Automatically refreshed authored commits this year, all-time pull requests, and retained AI tokens including cached input." width="32%"></a>
   &nbsp;
   <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-back.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-back.svg?v=64fbdda4ab591279" alt="Hunter License back. LICENSED TO NSMCHAN. ISSUED 2021.03.30, GitHub account creation date in Korea Standard Time." width="45%"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/water-divination-preview.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=e7d60129f5b8611d" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
+  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/water-divination-preview.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=51fd97b46b934635" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=a39867e401240f5b" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
+<img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=ec12437d4c9dde63" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
 </p>
 
 <table width="690" cellpadding="0" cellspacing="0">
 <tbody><tr><td>
 <a href="https://github.com/rtk-ai/rtk"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-light.svg?v=706a40f369ad8ba1" alt="RTK" height="28"></a><br>
-<picture><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=0bef1b7903fc39e7" alt="RTK estimated command-output token savings." width="640"></picture>
+<picture><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=f646eb8b0f66e3b2" alt="RTK estimated command-output token savings." width="640"></picture>
 </td></tr></tbody>
 
 <tbody><tr><td>
