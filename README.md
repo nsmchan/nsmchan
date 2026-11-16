@@ -13,23 +13,23 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-front.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-front.svg?v=06fab7c7aa8d81ed" alt="Hunter License front. Automatically refreshed authored commits this year, all-time pull requests, and retained AI tokens including cached input." width="32%"></a>
+  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-front.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-front.svg?v=7e1e841889277997" alt="Hunter License front. Automatically refreshed authored commits this year, all-time pull requests, and retained AI tokens including cached input." width="32%"></a>
   &nbsp;
-  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-back.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-back.svg?v=6c931d9fa79ec794" alt="Hunter License back. LICENSED TO NSMCHAN. UPDATED 2026.11.15, profile refresh date in Korea Standard Time." width="45%"></a>
+  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/hunter-license-back.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/hunter-license-back.svg?v=d3cc5c56170a4209" alt="Hunter License back. LICENSED TO NSMCHAN. UPDATED 2026.11.16, profile refresh date in Korea Standard Time." width="45%"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/water-divination-preview.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=06a5b45c16f47473" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
+  <a href="https://github.com/nsmchan/nsmchan/blob/main/assets/water-divination-preview.svg"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/water-divination.svg?v=feecb104b5e3e971" alt="Water Divination developer radar. Automatically refreshed from unique committed local source files and retained AI token aggregates. Code and AI use separate totals; cached input included." width="690"></a>
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=d8df83fd67be7c4c" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
+<img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/ai-activity-light.svg?v=e088e7e1fc36f4d1" alt="Claude and Codex logos with daily token activity from retained local records. Includes cached input." width="690">
 </p>
 
 <table width="690" cellpadding="0" cellspacing="0">
 <tbody><tr><td>
 <a href="https://github.com/rtk-ai/rtk"><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/heading-rtk-light.svg?v=706a40f369ad8ba1" alt="RTK" height="28"></a><br>
-<picture><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=d0b3fd089d5e6af6" alt="RTK estimated command-output token savings." width="640"></picture>
+<picture><img src="https://raw.githubusercontent.com/nsmchan/nsmchan/main/assets/compact-rtk-light.svg?v=d27796993ea47aab" alt="RTK estimated command-output token savings." width="640"></picture>
 </td></tr></tbody>
 
 <tbody><tr><td>
