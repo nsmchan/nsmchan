@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "machine": "windows-pc",
+  "source": "claude-code-transcripts",
+  "timezone": "Asia/Seoul",
+  "updated_at": "2026-11-19T13:13:50Z",
+  "first_date": "2026-09-02",
+  "last_date": "2026-11-19",
+  "daily": [
+    {
+      "date": "2026-09-02",
+      "input_tokens": 4462783,
+      "output_tokens": 47652,
+      "cached_input_tokens": 4356760,
+      "cache_creation_input_tokens": 105938,
+      "uncached_input_tokens": 85,
+      "tokens": 4510435,
+      "responses": 47
+    },
+    {
+      "date": "2026-11-17",
+      "input_tokens": 10638206,
+      "output_tokens": 85951,
+      "cached_input_tokens": 10255092,
+      "cache_creation_input_tokens": 382854,
+      "uncached_input_tokens": 260,
+      "tokens": 10724157,
+      "responses": 109
+    },
+    {
+      "date": "2026-11-18",
+      "input_tokens": 48167460,
+      "output_tokens": 104902,
+      "cached_input_tokens": 47909085,
+      "cache_creation_input_tokens": 257935,
+      "uncached_input_tokens": 440,
+      "tokens": 48272362,
+      "responses": 188
+    },
+    {
+      "date": "2026-11-19",
+      "input_tokens": 48523325,
+      "output_tokens": 211718,
+      "cached_input_tokens": 47671289,
+      "cache_creation_input_tokens": 851318,
+      "uncached_input_tokens": 718,
+      "tokens": 48735043,
+      "responses": 296
+    }
+  ],
+  "totals": {
+    "input_tokens": 111791774,
+    "output_tokens": 450223,
+    "cached_input_tokens": 110192226,
+    "cache_creation_input_tokens": 1598045,
+    "uncached_input_tokens": 1503,
+    "tokens": 112241997,
+    "responses": 640
+  }
+}

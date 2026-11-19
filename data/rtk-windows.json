@@ -3,27 +3,38 @@
     "machine":  "windows-pc",
     "source":  "rtk gain -d -f json",
     "rtk":  "1.2.0",
-    "updated_at":  "2026-11-18T16:06:31Z",
+    "updated_at":  "2026-11-19T13:13:50Z",
+    "net_saved":  729,
     "summary":  {
-                    "total_commands":  13,
-                    "total_input":  475,
-                    "total_output":  177,
-                    "total_saved":  313,
-                    "avg_savings_pct":  65.89473684210526,
-                    "total_time_ms":  1814,
-                    "avg_time_ms":  151,
+                    "total_commands":  26,
+                    "total_input":  1265,
+                    "total_output":  536,
+                    "total_saved":  744,
+                    "avg_savings_pct":  58.81422924901186,
+                    "total_time_ms":  2880,
+                    "avg_time_ms":  115,
                     "oversized_excluded":  0
                 },
     "daily":  [
                   {
                       "date":  "2026-11-18",
-                      "commands":  13,
-                      "input_tokens":  475,
-                      "output_tokens":  177,
-                      "saved_tokens":  298,
-                      "savings_pct":  62.73684210526316,
-                      "total_time_ms":  1814,
-                      "avg_time_ms":  151
+                      "commands":  23,
+                      "input_tokens":  1106,
+                      "output_tokens":  407,
+                      "saved_tokens":  699,
+                      "savings_pct":  63.20072332730561,
+                      "total_time_ms":  2741,
+                      "avg_time_ms":  124
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "commands":  3,
+                      "input_tokens":  159,
+                      "output_tokens":  129,
+                      "saved_tokens":  30,
+                      "savings_pct":  18.867924528301888,
+                      "total_time_ms":  139,
+                      "avg_time_ms":  46
                   }
               ]
 }
