@@ -3,7 +3,7 @@
   "machine": "windows-pc",
   "source": "claude-code-transcripts",
   "timezone": "Asia/Seoul",
-  "updated_at": "2026-11-19T13:30:03Z",
+  "updated_at": "2026-11-20T13:51:12Z",
   "first_date": "2026-09-02",
   "last_date": "2026-11-19",
   "daily": [
@@ -39,22 +39,22 @@
     },
     {
       "date": "2026-11-19",
-      "input_tokens": 49327061,
-      "output_tokens": 218554,
-      "cached_input_tokens": 48466850,
-      "cache_creation_input_tokens": 859483,
-      "uncached_input_tokens": 728,
-      "tokens": 49545615,
-      "responses": 301
+      "input_tokens": 51325410,
+      "output_tokens": 228531,
+      "cached_input_tokens": 50395313,
+      "cache_creation_input_tokens": 929325,
+      "uncached_input_tokens": 772,
+      "tokens": 51553941,
+      "responses": 322
     }
   ],
   "totals": {
-    "input_tokens": 112595510,
-    "output_tokens": 457059,
-    "cached_input_tokens": 110987787,
-    "cache_creation_input_tokens": 1606210,
-    "uncached_input_tokens": 1513,
-    "tokens": 113052569,
-    "responses": 645
+    "input_tokens": 114593859,
+    "output_tokens": 467036,
+    "cached_input_tokens": 112916250,
+    "cache_creation_input_tokens": 1676052,
+    "uncached_input_tokens": 1557,
+    "tokens": 115060895,
+    "responses": 666
   }
 }
